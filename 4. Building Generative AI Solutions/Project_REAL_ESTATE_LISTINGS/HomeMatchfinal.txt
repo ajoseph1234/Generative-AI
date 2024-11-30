@@ -1,0 +1,1 @@
+HomeMatchfinal_without_CLIP.txtAuthor:Ajay JosephDate: Nov 8th 2024Follow up executing the Jupyter  ipnybFOLLOW DIRECTIONS AND DEPENDENCIES IN NOTEBOOKrealtor_listings.csv file should be int the same directory as the ipynb. 
